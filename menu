@@ -1,0 +1,72 @@
+{
+  "app_name": "Islamic Sciences Online",
+  "version": "1.0",
+  "menu": [
+    {
+      "title": "Aqidah",
+      "icon": "shield",
+      "children": [
+        { "label": "Tawhid", "slug": "Tawhid" },
+        { "label": "Prophethood", "slug": "Prophethood" },
+        { "label": "After Life", "slug": "After-Life" },
+        { "label": "Holy Scriptures", "slug": "Holy-Scriptures" },
+        { "label": "Angels", "slug": "Angels" },
+        { "label": "Taqdir", "slug": "Taqdir" },
+        { "label": "Barzakh", "slug": "Barzakh" },
+        { "label": "Tawassul", "slug": "Tawassul" }
+      ]
+    },
+    {
+      "title": "Ibadat",
+      "icon": "mosque",
+      "children": [
+        { "label": "Salah", "slug": "Salah" },
+        { "label": "Sawm", "slug": "Sawm" },
+        { "label": "Zakat", "slug": "Zakat" },
+        { "label": "Hajj", "slug": "Hajj" },
+        { "label": "Umrah", "slug": "Umrah" }
+      ]
+    },
+    {
+      "title": "Usul",
+      "icon": "book",
+      "children": [
+        { "label": "Usul al-Fiqh", "slug": "Usul-al-Fiqh" },
+        { "label": "Qur'an", "slug": "Quran" },
+        { "label": "Tafsir", "slug": "Tafsir" },
+        { "label": "Sunnah", "slug": "Sunnah" },
+        { "label": "Seerah", "slug": "Seerah" },
+        { "label": "Ahl al-Bayt", "slug": "Ahl-al-Bayt" },
+        { "label": "Sahabah", "slug": "Sahabah" }
+      ]
+    },
+    {
+      "title": "Islamic Law",
+      "icon": "scale",
+      "children": [
+        { "label": "Food Law", "slug": "Food-Law" },
+        { "label": "Family Law", "slug": "Family-Law" },
+        { "label": "Criminal Law", "slug": "Criminal-Law" },
+        { "label": "Civil Law", "slug": "Civil-Law" },
+        { "label": "International Law", "slug": "International-Law" }
+      ]
+    },
+    {
+      "title": "Islamic Sciences",
+      "icon": "science",
+      "children": [
+        { "label": "Cosmology", "slug": "Cosmology" },
+        { "label": "Astronomy", "slug": "Astronomy" },
+        { "label": "Biology", "slug": "Biology" },
+        { "label": "Physics", "slug": "Physics" },
+        { "label": "Chemistry", "slug": "Chemistry" },
+        { "label": "Mathematics", "slug": "Mathematics" },
+        { "label": "Geology", "slug": "Geology" },
+        { "label": "Ecology", "slug": "Ecology" },
+        { "label": "Anthropology", "slug": "Anthropology" },
+        { "label": "Psychology", "slug": "Psychology" },
+        { "label": "History", "slug": "History" }
+      ]
+    }
+  ]
+}
