@@ -52,7 +52,7 @@
       ]
     },
     {
-      "title": "Islamic Sciences",
+      "title": "Natural Sciences",
       "icon": "science",
       "children": [
         { "label": "Cosmology", "slug": "Cosmology" },
