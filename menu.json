@@ -24,7 +24,7 @@
         { "label": "Sawm", "slug": "Sawm" },
         { "label": "Zakat", "slug": "Zakat" },
         { "label": "Hajj", "slug": "Hajj" },
-        { "label": "Umrah", "slug": "Umrah" }
+        { "label": "Umrah", "slug": "Umrah" },
         { "label": "Tazkiyah", "slug": "Tazkiyah" }
       ]
     },
@@ -32,7 +32,7 @@
       "title": "Usul",
       "icon": "book",
       "children": [
-        { "label": "Usul al-Fiqh", "slug": "Usul-al-Fiqh" },
+        { "label": "Usul al-Fiqh", "slug": "Usul" },
         { "label": "Qur'an", "slug": "Quran" },
         { "label": "Tafsir", "slug": "Tafsir" },
         { "label": "Sunnah", "slug": "Sunnah" },
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "title": "Natural Sciences",
+      "title": "Islamic Sciences",
       "icon": "science",
       "children": [
         { "label": "Cosmology", "slug": "Cosmology" },
@@ -68,6 +68,20 @@
         { "label": "Anthropology", "slug": "Anthropology" },
         { "label": "Psychology", "slug": "Psychology" },
         { "label": "History", "slug": "History" }
+      ]
+    },
+    {
+      "title": "CSS/PMS",
+      "icon": "school",
+      "children": [
+        { "label": "CSS Exams", "slug": "CSS-Exams" },
+        { "label": "Current Affairs", "slug": "Current-Affairs" },
+        { "label": "International Relations", "slug": "International-Relations" },
+        { "label": "Public Administration", "slug": "Public-Administration" },
+        { "label": "CSS Papers", "slug": "CSS-Papers" },
+        { "label": "CSS Syllabus", "slug": "CSS-Syllabus" },
+        { "label": "CSS Essays", "slug": "CSS-Essays" },
+        { "label": "Leadership Skills", "slug": "Leadership-Skills" }
       ]
     }
   ]
