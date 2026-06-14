@@ -25,6 +25,7 @@
         { "label": "Zakat", "slug": "Zakat" },
         { "label": "Hajj", "slug": "Hajj" },
         { "label": "Umrah", "slug": "Umrah" }
+        { "label": "Tazkiyah", "slug": "Tazkiyah" }
       ]
     },
     {
@@ -48,6 +49,7 @@
         { "label": "Family Law", "slug": "Family-Law" },
         { "label": "Criminal Law", "slug": "Criminal-Law" },
         { "label": "Civil Law", "slug": "Civil-Law" },
+        { "label": "Commercial Law", "slug": "Commercial-Law" },
         { "label": "International Law", "slug": "International-Law" }
       ]
     },
