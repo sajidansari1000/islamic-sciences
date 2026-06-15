@@ -64,6 +64,7 @@
         { "label": "Physics", "slug": "Physics" },
         { "label": "Chemistry", "slug": "Chemistry" },
         { "label": "Mathematics", "slug": "Mathematics" },
+        { "label": "Technology", "slug": "Technology" },
         { "label": "Geology", "slug": "Geology" },
         { "label": "Ecology", "slug": "Ecology" },
         { "label": "Anthropology", "slug": "Anthropology" },
